@@ -44,7 +44,7 @@ API time i.e the last weather time from Open Mateo API is displayed along with t
 ## External Free APIs Used
 
 - Zippopotam API: Used to get the latitude and longitude coordinates  along with the city name based on the zip code.
-    - API Documentation: [(hhttps://zippopotam.us/)]
+    - API Documentation: [Zippopotam](https://zippopotam.us/)
 
 - Open Mateo API: Used to get the weather data based on the latitude and longitude coordinates.
     - API Documentation: [Open Mateo API Documentation](https://open-meteo.com/en/docs)
