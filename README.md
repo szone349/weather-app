@@ -19,13 +19,15 @@ The Zippopotam US API is utilized to obtain the latitude and longitude coordinat
 
 ## Setup and Installation
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local.
 
-2. Run the application:
+2. Run the application via Maven:
 
    ```bash
    ./mvnw spring-boot:run
    ```
+   Or Build and run using 
+   ```java -jar target\weatherdemo-0.0.1-SNAPSHOT.jar```
 
 3. The weather application will be accessible at `http://localhost:8080` in the web browser.
 
