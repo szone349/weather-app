@@ -40,7 +40,6 @@ The Zippopotam US API is utilized to obtain the latitude and longitude coordinat
 4. The application will use the external APIs to fetch the current temperature, High and Low temperatures. The details are displayed on the same index page.
 API time i.e the last weather time from Open Mateo API is displayed along with the fetch time. The Open Mateo API only refreshes in 15m intervals. The Last retrieved time is used as indicator for the caching implementation.
 
-5. It will then use the Seventimer API to fetch the current weather data based on the coordinates.
 
 ## External Free APIs Used
 
